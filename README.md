@@ -1,6 +1,6 @@
 # Perfil Github
 # 💫 About Me:
-(https://github.com/gabriel3019/gabriel3019/blob/main/GABRIEL%20ELIAS%20GIMENES.png)
+(https://raw.githubusercontent.com/gabriel3019/gabriel3019/main/GABRIEL%20ELIAS%20GIMENES.png)
 👋 Hi! I'm Gabriel Elías Gimenes, a passionate developer eager to learn, tackle new challenges, and build innovative solutions.<br>🚀 Currently, I'm studying Multiplatform Application Development (DAM) while expanding my knowledge in software development. I'm always looking for opportunities to contribute to exciting projects and grow professionally.<br>🔐 I'm highly interested in cybersecurity and eager to learn more about it to develop secure and efficient applications.
 
 
